@@ -39,7 +39,7 @@
     "emoji-picker-react": "^4.4.12",
     "encoding": "^0.1.13",
     "llamaindex": "0.0.0-20231110031459",
-    "lucide-react": "^0.277.0",
+    "lucide-react": "^0.307.0",
     "mermaid": "^10.3.1",
     "nanoid": "^5.0.2",
     "next": "^13.5.6",
