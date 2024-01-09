@@ -65,7 +65,7 @@
     "tailwindcss-animate": "^1.0.7",
     "unified": "^10.1.2",
     "unist-util-remove": "^4.0.0",
-    "use-debounce": "^9.0.4",
+    "use-debounce": "^10.0.0",
     "zustand": "^4.4.1"
   },
   "devDependencies": {
